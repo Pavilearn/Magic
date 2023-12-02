@@ -1,1 +1,1 @@
-print("this is a magic file"}
+print("this is a magic file")
